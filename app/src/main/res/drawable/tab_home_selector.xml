@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--这里只粘贴出来首页小图标的样式，准备好2个资源图片，选中和未选中样式的各一张-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/tab_home_checked" android:state_checked="true" />
+    <item android:drawable="@mipmap/tab_home_unchecked" />
+</selector>
